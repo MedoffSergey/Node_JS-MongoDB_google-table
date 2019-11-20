@@ -1,0 +1,24 @@
+{
+  "name": "skeleton",
+  "version": "1.0.0",
+  "description": "project using",
+  "author": "Medov Sergei",
+  "devDependencies": {
+    "@babel/core": "^7.7.2"
+  },
+  "dependencies": {
+    "async": "^3.1.0",
+    "domurl": "^2.2.0",
+    "express": "^4.17.1",
+    "google-spreadsheet": "^2.0.3",
+    "json": "^9.0.6",
+    "moment": "^2.24.0",
+    "moment-weekday-calc": "^1.1.4",
+    "mongodb": "^3.3.4",
+    "mongoose": "^5.7.11",
+    "path": "^0.12.7",
+    "pug": "^2.0.4",
+    "request": "^2.88.0",
+    "util": "^0.12.1"
+  }
+}
